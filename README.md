@@ -3,7 +3,7 @@
 An AI-powered content engine that mines your call transcripts for content ideas, interviews you about them via Slack, and drafts posts in your voice.
 
 **What it does:**
-1. Listens to your calls via [tldv](https://tldv.io) and pulls transcripts automatically
+1. Listens to your calls via [tl;dv](https://tldv.cello.so/BSEYJdbcrSp) and pulls transcripts automatically
 2. Uses Claude to extract content-worthy ideas from real conversations
 3. Pings you on Slack (Mon/Wed/Fri) to interview you about the best ones
 4. Drafts LinkedIn posts, newsletters, YouTube scripts, and X threads in your voice
@@ -23,7 +23,7 @@ You'll need accounts on:
 - [Anthropic](https://console.anthropic.com) (Claude API key)
 - [Slack](https://slack.com) (a workspace where you're an admin)
 - [Notion](https://notion.so) (free plan works)
-- [tldv](https://tldv.io) (Business plan for API access — optional)
+- [tl;dv](https://tldv.cello.so/BSEYJdbcrSp) (Business plan for API access — optional)
 - [Railway](https://railway.com) (for hosting — $5/mo)
 
 ### Step 1: Clone and install
@@ -173,7 +173,7 @@ Single Node.js process. No database. Notion is the persistence layer. Claude API
 |---------|------|
 | Railway | ~$5/mo |
 | Claude API | ~$5-15/mo (depends on usage) |
-| tldv Business | ~$25/mo |
+| tl;dv Business | ~$25/mo |
 | Slack, Notion | Free |
 
 ---
