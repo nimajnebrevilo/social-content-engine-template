@@ -173,7 +173,7 @@ Single Node.js process. No database. Notion is the persistence layer. Claude API
 |---------|------|
 | Railway | ~$5/mo |
 | Claude API | ~$5-15/mo (depends on usage) |
-| tldv Business | ~$25/mo (optional) |
+| tldv Business | ~$25/mo |
 | Slack, Notion | Free |
 
 ---
